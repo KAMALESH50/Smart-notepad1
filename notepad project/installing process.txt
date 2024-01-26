@@ -1,0 +1,19 @@
+1. install VSCODE
+2. install PYTHON for interpreter
+3. pip install pywin32
+4. C:\Users\kamal\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+5. pip install requests
+6. pip install fpdf
+7. pip install SpeechRecognition
+8. pip install gtts
+9. pip install numpy
+10. pip install pyaudio
+11. pip install SpeechRecognition==3.8.1
+12.
+
+
+
+###
+1. pip install googletrans==4.0.0-rc1
+2. pip install googlesearch-python
+3. 
